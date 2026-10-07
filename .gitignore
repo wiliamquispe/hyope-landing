@@ -1,0 +1,6 @@
+assets-src/
+roster.jpeg
+plans/
+*.log
+.env*
+node_modules/
